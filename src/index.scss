@@ -1,0 +1,27 @@
+//font import
+//root variable
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  // font family
+  // background color
+}
+
+p{
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+img{
+  max-width: 100%;
+}
+
+a, li {
+  text-decoration: none;
+  font: inherit;
+}
